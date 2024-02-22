@@ -1,0 +1,2 @@
+1. This is the basic workflow for machine learning for training a dataset with a model
+2. Note that there are more action that can be done in order achieve a better stuff like feature engineering, dimensionality reduction, and so on.
